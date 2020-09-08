@@ -6,7 +6,8 @@ public class Data {
 		
 		Date relogio = new Date();
 		
-		System.out.println("A hora do sistema é " + relogio.toString());
+		System.out.println("A hora do sistema é: " + relogio.toString());
+		System.out.println("");
 
 	}
 
